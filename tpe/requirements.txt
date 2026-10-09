@@ -1,0 +1,3 @@
+marimo
+numpy==2.5.3
+plotly==7.1.0
