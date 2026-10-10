@@ -2,3 +2,4 @@ marimo
 numpy
 scipy
 plotly
+pandas
